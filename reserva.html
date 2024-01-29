@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>HTML</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <center>  
+  <h1>Haz tu reserva</h1>
+  <label for="reserva">Elige la película</label>
+<select name="reserva" id="membership">
+  <option value="free">La Leyenda</option>
+  <option value="bronze">El entierro</option>
+  <option value="silver" selected>La caida</option></select> <br>  
+  <br>  
+
+<label for="reserva">Elige la fecha de la reserva</label>
+
+<input type="date" id="fecha" name="reservafecha" value="2023-11-12" min="2023-11-12" max="2024-12-31" required/>
+<br> 
+<p>
+
+    Elige la hora de entrada <input type="time" name="horaarribo" min="06:00" max="00:00" step="600" required>
+
+  </p>
+<br>  <br>  
+       <button onclick="location.href='reservarealizada.html'">Confirmar reserva</button>
+</select>
+</center>
+</body>
+</html>
