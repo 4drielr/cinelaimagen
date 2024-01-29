@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+	<title>Cine La Imagen</title>
+	<link>paginahtml.github.io</link>
+	<description>Las mejores noticias y novedades sobre películas.</description>
+
+<item>
+	<title>Película "El terror"</title>
+	<description>La nueva película con la que no podrás mirar durante más de 10 segundos</description>
+	<link>https://4drielr.github.io/cinelaimagen/elterror</link>
+	<author>Cine La Imagen</author>
+	<pubDate>Wed, 24 Jan 2024</pubDate>
+</item>
+
+<item>
+	<title>Película "La amistad"</title>
+	<description>Una película infantil que enseñará los valores de la amistad</description>
+	<link>https://4drielr.github.io/cinelaimagen/laamistad</link>
+	<author>Cine La Imagen</author>
+	<pubDate>Fri, 26 Jan 2024</pubDate>
+</item>
+
+<item>
+	<title>Película "El baile"</title>
+	<description>Un musical romántico</description>
+	<link>https://4drielr.github.io/cinelaimagen/elbaile</link>
+	<author>Cine La Imagen</author>
+	<pubDate>Sat, 27 Jan 2024</pubDate>
+</item>
+
+<item>
+	<title>Película "El funeral"</title>
+	<description>Una película de misterio en la que los muertos no siempre lo están</description>
+	<link>https://4drielr.github.io/cinelaimagen/elfuneral</link>
+	<author>Cine La Imagen</author>
+	<pubDate>Sun, 28 Jan 2024</pubDate>
+</item>
+</channel>
+
+
+
+</rss>
